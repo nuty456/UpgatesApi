@@ -1,14 +1,36 @@
 package cz.upgates;
 
 import org.junit.jupiter.api.Test;
+import org.springframework.beans.factory.annotation.Value;
+import org.springframework.boot.test.context.SpringBootTest;
 
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+@SpringBootTest(webEnvironment = SpringBootTest.WebEnvironment.RANDOM_PORT)
 public class UpgatesApiTest {
-  String username = "18476907";
-  String password = "jNF9ugjc2L4R7DbO8DqB";
-  String eshopName = "beershop";
-  String serverCode = "s24";
+  /**
+   * The username to be used for authentication.
+   */
+  @Value("${upgate.username:#{systemEnvironment['UPGATE_USERNAME']}}")
+  String username;
+
+  /**
+   * The password used for authentication.
+   */
+  @Value("${upgate.password:#{systemEnvironment['UPGATE_PASSWORD']}}")
+  String password;
+
+  /**
+   * The eshopName variable represents the name of the e-shop.
+   */
+  @Value("${upgate.eshopName:#{systemEnvironment['UPGATE_ESHOPNAME']}}")
+  String eshopName;
+
+  /**
+   * The serverCode variable represents the code of the server to be used for API access.
+   */
+  @Value("${upgate.serverCode:#{systemEnvironment['UPGATE_SERVERCODE']}}")
+  String serverCode;
 
   /**
    * This class UpgatesApiTest is written to test the method getBaseApiUrl in the class UpgatesApi.
