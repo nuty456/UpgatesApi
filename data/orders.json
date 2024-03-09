@@ -1,0 +1,434 @@
+{
+  "current_page": 1,
+  "current_page_items": 3,
+  "number_of_pages": 1,
+  "number_of_items": 3,
+  "orders": [
+    {
+      "order_number": "9000011",
+      "case_number": "B00001",
+      "external_order_number": null,
+      "language_id": "cs",
+      "currency_id": "CZK",
+      "default_currency_rate": 1,
+      "prices_with_vat_yn": true,
+      "status_id": 1,
+      "status": "P\u0159ijat\u00e1",
+      "paid_date": null,
+      "tracking_code": null,
+      "tracking_url": null,
+      "resolved_yn": false,
+      "oss_yn": false,
+      "internal_note": null,
+      "last_update_time": "2024-02-29T14:24:49+01:00",
+      "creation_time": "2024-02-29T14:24:49+01:00",
+      "variable_symbol": "1",
+      "total_weight": 2700,
+      "order_total": 293,
+      "order_total_before_round": 293,
+      "order_total_rest": 0,
+      "invoice_number": null,
+      "origin": "frontend",
+      "admin_url": "https:\/\/beershop.admin.s24.upgates.com\/orders\/edit-order\/default\/1",
+      "customer": {
+        "email": "neco@nejak.cz",
+        "phone": "+420 111222333",
+        "code": "C00001",
+        "customer_id": 1,
+        "customer_pricelist_id": 1,
+        "pricelist_name": "V\u00fdchoz\u00ed",
+        "pricelist_percent": null,
+        "firstname_invoice": "Karel",
+        "surname_invoice": "Loprais",
+        "street_invoice": "Na vsi 9",
+        "city_invoice": "Beroun",
+        "state_invoice": "",
+        "zip_invoice": "26601",
+        "country_id_invoice": "cz",
+        "postal_yn": true,
+        "firstname_postal": "Karel",
+        "surname_postal": "Loprais",
+        "street_postal": "Na Vsi 3",
+        "city_postal": "Beroun",
+        "state_postal": "",
+        "zip_postal": "26601",
+        "country_id_postal": "cz",
+        "company_postal": "",
+        "company_yn": true,
+        "company": "Tintitko a.s.",
+        "ico": "55555555",
+        "dic": "CZ55555555",
+        "vat_payer_yn": false,
+        "customer_note": "",
+        "agreements": [
+          {
+            "name": "Obchodn\u00ed podm\u00ednky",
+            "valid_to": null,
+            "status": true
+          },
+          {
+            "name": "V\u00fdzva ke kontrole ko\u0161\u00edku",
+            "valid_to": {
+              "date": "2025-03-01 14:24:49.000000",
+              "timezone_type": 3,
+              "timezone": "Europe\/Prague"
+            },
+            "status": true
+          }
+        ]
+      },
+      "products": [
+        {
+          "product_id": 36,
+          "option_set_id": null,
+          "code": "2862",
+          "code_supplier": null,
+          "supplier": null,
+          "ean": null,
+          "title": "Permon 11\u00b0 P\u0161eni\u010dn\u00e9",
+          "adult_yn": false,
+          "unit": "ks",
+          "length": null,
+          "length_unit": "ks",
+          "quantity": 3,
+          "price_per_unit": 68,
+          "price": 204,
+          "price_with_vat": 204,
+          "price_without_vat": 168.6,
+          "vat": 21,
+          "buy_price": null,
+          "recycling_fee": 3,
+          "weight": 900,
+          "availability": "Skladem 3-5 ks",
+          "stock_position": null,
+          "invoice_info": "",
+          "parameters": [],
+          "configurations": [],
+          "categories": [
+            {
+              "category_id": 111,
+              "code": "K00002"
+            },
+            {
+              "category_id": 122,
+              "code": "K00013"
+            },
+            {
+              "category_id": 130,
+              "code": "K00021"
+            },
+            {
+              "category_id": 156,
+              "code": "K00047"
+            }
+          ],
+          "image_url": "https:\/\/beershop.s24.cdn-upgates.com\/l\/l65ddced358dd3-img-2035.jpg"
+        }
+      ],
+      "shipment": {
+        "id": 4,
+        "code": "INB",
+        "name": "WEDO (cel\u00e1 \u010cR)",
+        "price": 89,
+        "vat": 21,
+        "affiliate_id": null,
+        "affiliate_name": null,
+        "type": "wedo"
+      },
+      "payment": {
+        "id": 3,
+        "code": null,
+        "name": "Platba p\u0159edem bankovn\u00edm p\u0159evodem",
+        "price": 0,
+        "vat": 0,
+        "eet_yn": false,
+        "type": "command"
+      },
+      "metas": []
+    },
+    {
+      "order_number": "9000021",
+      "case_number": "B00002",
+      "external_order_number": null,
+      "language_id": "cs",
+      "currency_id": "CZK",
+      "default_currency_rate": 1,
+      "prices_with_vat_yn": true,
+      "status_id": 1,
+      "status": "P\u0159ijat\u00e1",
+      "paid_date": null,
+      "tracking_code": null,
+      "tracking_url": null,
+      "resolved_yn": false,
+      "oss_yn": false,
+      "internal_note": null,
+      "last_update_time": "2024-02-29T14:28:58+01:00",
+      "creation_time": "2024-02-29T14:28:58+01:00",
+      "variable_symbol": "2",
+      "total_weight": 900,
+      "order_total": 157,
+      "order_total_before_round": 157,
+      "order_total_rest": 0,
+      "invoice_number": null,
+      "origin": "frontend",
+      "admin_url": "https:\/\/beershop.admin.s24.upgates.com\/orders\/edit-order\/default\/2",
+      "customer": {
+        "email": "neco@nejak.cz",
+        "phone": "+420 111222333",
+        "code": "C00001",
+        "customer_id": 1,
+        "customer_pricelist_id": 1,
+        "pricelist_name": "V\u00fdchoz\u00ed",
+        "pricelist_percent": null,
+        "firstname_invoice": "Karel",
+        "surname_invoice": "Loprais",
+        "street_invoice": "Na Vsi 3",
+        "city_invoice": "Beroun",
+        "state_invoice": "",
+        "zip_invoice": "26601",
+        "country_id_invoice": "cz",
+        "postal_yn": false,
+        "firstname_postal": null,
+        "surname_postal": null,
+        "street_postal": null,
+        "city_postal": null,
+        "state_postal": null,
+        "zip_postal": null,
+        "country_id_postal": null,
+        "company_postal": null,
+        "company_yn": false,
+        "company": null,
+        "ico": null,
+        "dic": null,
+        "vat_payer_yn": false,
+        "customer_note": "",
+        "agreements": [
+          {
+            "name": "Obchodn\u00ed podm\u00ednky",
+            "valid_to": null,
+            "status": true
+          },
+          {
+            "name": "V\u00fdzva ke kontrole ko\u0161\u00edku",
+            "valid_to": {
+              "date": "2025-03-01 14:28:58.000000",
+              "timezone_type": 3,
+              "timezone": "Europe\/Prague"
+            },
+            "status": true
+          }
+        ]
+      },
+      "products": [
+        {
+          "product_id": 36,
+          "option_set_id": null,
+          "code": "2862",
+          "code_supplier": null,
+          "supplier": null,
+          "ean": null,
+          "title": "Permon 11\u00b0 P\u0161eni\u010dn\u00e9",
+          "adult_yn": false,
+          "unit": "ks",
+          "length": null,
+          "length_unit": "ks",
+          "quantity": 1,
+          "price_per_unit": 68,
+          "price": 68,
+          "price_with_vat": 68,
+          "price_without_vat": 56.2,
+          "vat": 21,
+          "buy_price": null,
+          "recycling_fee": 3,
+          "weight": 900,
+          "availability": "Skladem 1-2 ks",
+          "stock_position": null,
+          "invoice_info": "",
+          "parameters": [],
+          "configurations": [],
+          "categories": [
+            {
+              "category_id": 111,
+              "code": "K00002"
+            },
+            {
+              "category_id": 122,
+              "code": "K00013"
+            },
+            {
+              "category_id": 130,
+              "code": "K00021"
+            },
+            {
+              "category_id": 156,
+              "code": "K00047"
+            }
+          ],
+          "image_url": "https:\/\/beershop.s24.cdn-upgates.com\/l\/l65ddced358dd3-img-2035.jpg"
+        }
+      ],
+      "shipment": {
+        "id": 4,
+        "code": "INB",
+        "name": "WEDO",
+        "price": 89,
+        "vat": 21,
+        "affiliate_id": null,
+        "affiliate_name": null,
+        "type": "wedo"
+      },
+      "payment": {
+        "id": 3,
+        "code": null,
+        "name": "Platba p\u0159edem bankovn\u00edm p\u0159evodem",
+        "price": 0,
+        "vat": 0,
+        "eet_yn": false,
+        "type": "command"
+      },
+      "metas": []
+    },
+    {
+      "order_number": "9000031",
+      "case_number": "B00003",
+      "external_order_number": null,
+      "language_id": "cs",
+      "currency_id": "CZK",
+      "default_currency_rate": 1,
+      "prices_with_vat_yn": true,
+      "status_id": 1,
+      "status": "P\u0159ijat\u00e1",
+      "paid_date": null,
+      "tracking_code": null,
+      "tracking_url": null,
+      "resolved_yn": false,
+      "oss_yn": false,
+      "internal_note": null,
+      "last_update_time": "2024-02-29T17:00:43+01:00",
+      "creation_time": "2024-02-29T17:00:43+01:00",
+      "variable_symbol": "3",
+      "total_weight": 500,
+      "order_total": 168,
+      "order_total_before_round": 168,
+      "order_total_rest": 0,
+      "invoice_number": null,
+      "origin": "frontend",
+      "admin_url": "https:\/\/beershop.admin.s24.upgates.com\/orders\/edit-order\/default\/3",
+      "customer": {
+        "email": "neco@nejak.cz",
+        "phone": "+420 111222333",
+        "code": "C00001",
+        "customer_id": 1,
+        "customer_pricelist_id": 1,
+        "pricelist_name": "V\u00fdchoz\u00ed",
+        "pricelist_percent": null,
+        "firstname_invoice": "Karel",
+        "surname_invoice": "Loprais",
+        "street_invoice": "Sokolovsk\u00e1 131\/86",
+        "city_invoice": "Beroun",
+        "state_invoice": "",
+        "zip_invoice": "18600",
+        "country_id_invoice": "cz",
+        "postal_yn": false,
+        "firstname_postal": null,
+        "surname_postal": null,
+        "street_postal": null,
+        "city_postal": null,
+        "state_postal": null,
+        "zip_postal": null,
+        "country_id_postal": null,
+        "company_postal": null,
+        "company_yn": false,
+        "company": null,
+        "ico": null,
+        "dic": null,
+        "vat_payer_yn": false,
+        "customer_note": "",
+        "agreements": [
+          {
+            "name": "Obchodn\u00ed podm\u00ednky",
+            "valid_to": null,
+            "status": true
+          },
+          {
+            "name": "V\u00fdzva ke kontrole ko\u0161\u00edku",
+            "valid_to": {
+              "date": "2025-03-01 17:00:43.000000",
+              "timezone_type": 3,
+              "timezone": "Europe\/Prague"
+            },
+            "status": true
+          }
+        ]
+      },
+      "products": [
+        {
+          "product_id": 35,
+          "option_set_id": null,
+          "code": "2307",
+          "code_supplier": null,
+          "supplier": null,
+          "ean": null,
+          "title": "Chroust 12\u00b0 Jura Le\u017e\u00e1k",
+          "adult_yn": false,
+          "unit": "ks",
+          "length": null,
+          "length_unit": "ks",
+          "quantity": 1,
+          "price_per_unit": 79,
+          "price": 79,
+          "price_with_vat": 79,
+          "price_without_vat": 65.29,
+          "vat": 21,
+          "buy_price": null,
+          "recycling_fee": null,
+          "weight": 500,
+          "availability": "Skladem 1-2 ks",
+          "stock_position": null,
+          "invoice_info": "",
+          "parameters": [],
+          "configurations": [],
+          "categories": [
+            {
+              "category_id": 111,
+              "code": "K00002"
+            },
+            {
+              "category_id": 113,
+              "code": "K00004"
+            },
+            {
+              "category_id": 121,
+              "code": "K00012"
+            },
+            {
+              "category_id": 156,
+              "code": "K00047"
+            }
+          ],
+          "image_url": "https:\/\/beershop.s24.cdn-upgates.com\/c\/c65ddccca2f52d-img-1970-2.jpg"
+        }
+      ],
+      "shipment": {
+        "id": 4,
+        "code": "INB",
+        "name": "WEDO",
+        "price": 89,
+        "vat": 21,
+        "affiliate_id": null,
+        "affiliate_name": null,
+        "type": "wedo"
+      },
+      "payment": {
+        "id": 3,
+        "code": null,
+        "name": "Platba p\u0159edem bankovn\u00edm p\u0159evodem",
+        "price": 0,
+        "vat": 0,
+        "eet_yn": false,
+        "type": "command"
+      },
+      "metas": []
+    }
+  ]
+}

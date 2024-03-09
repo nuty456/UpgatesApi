@@ -1,0 +1,194 @@
+{
+  "code": "1001",
+  "action_currently_yn": false,
+  "code_supplier": null,
+  "supplier": null,
+  "ean": "7622210496225",
+  "product_id": 34,
+  "active_yn": true,
+  "archived_yn": false,
+  "replacement_product_code": null,
+  "can_add_to_basket_yn": true,
+  "adult_yn": false,
+  "set_yn": false,
+  "in_set_yn": false,
+  "exclude_from_search_yn": false,
+  "descriptions": [
+    {
+      "language": "cs",
+      "title": "Zlaty Dalmatyn 101",
+      "short_description": "Pro fanou\u0161ky lehk\u00fdch pra\u017een\u00fdch piv dle vzor\u016f z Irska si na leto\u0161n\u00ed zimu v Zichovci p\u0159ipravili sv\u016fj prvn\u00ed Irish Dry Stout. Vysok\u00e1 pitelnost, kr\u00e9mov\u00e9 t\u011blo a dominantn\u00ed chu\u0165 pra\u017een\u00fdch k\u00e1vov\u00fdch slad\u016f budou skv\u011bl\u00fdmi partnery pro podzimn\u00ed ve\u010dery. Stout je va\u0159en\u00fd specificky zpracovan\u00e9ho je\u010dmene, kter\u00fd se hrav\u011b postaral o \u017e\u00e1douc\u00ed elegatn\u011b k\u00e1vov\u00fd profil.",
+      "long_description": "<p><strong>Slo\u017een\u00ed:<\/strong><br>voda,\u00a0<ins>je\u010dn\u00fd\u00a0slad<\/ins>,\u00a0<ins>je\u010dn\u00e9 vlo\u010dky<\/ins>, chmelov\u00e9 produkty<\/p>\r\n<p><strong>O pivovaru:<\/strong><br>Zichoveck\u00fd pivovar za\u010d\u00ednal v obci Zichovec mezi Louny a Slan\u00fdm, kter\u00e1 m\u00e1 podle Googlu jenom 93 obyvatel. Vzhledem ke kvalit\u011b sv\u00fdch piv ale dok\u00e1zal p\u0159it\u00e1hnout z\u00e1kazn\u00edky z cel\u00e9ho okol\u00ed. Nyn\u00ed pivovar Zichovec va\u0159\u00ed pivo v nov\u00e9m modern\u00edm are\u00e1lu na okraji Loun. Pivovar je vybaven\u00fd nejmodern\u011bj\u0161\u00ed technologi\u00ed a jeho kapacitu vyu\u017e\u00edv\u00e1 i cel\u00e1 \u0159ada \u010desk\u00fdch ko\u010dovn\u00fdch pivovar\u016f. Jejich nepopul\u00e1rn\u011bj\u0161\u00edm pivem je Magor a ze speci\u00e1l\u016f doporu\u010dujeme ochutnat (a vyp\u00edt) skv\u011ble odlad\u011bnou a nachmelenou\u00a0Double IPU.<\/p>",
+      "url": "https:\/\/www.beer-shop.cz\/p\/zlaty-dalmatyn-101",
+      "seo_title": null,
+      "seo_description": null,
+      "seo_url": "zichovec-11-irish-black-stout",
+      "unit": "ks"
+    },
+    {
+      "language": "en",
+      "title": "Zlaty Dalmatyn 101",
+      "short_description": null,
+      "long_description": null,
+      "url": "http:\/\/eu.beer-shop.cz\/p\/zlaty-dalmatyn-101",
+      "seo_title": null,
+      "seo_description": null,
+      "seo_url": null,
+      "unit": "ks"
+    },
+    {
+      "language": "sk",
+      "title": "Zlaty Dalmatyn 101",
+      "short_description": "Pre fan\u00fa\u0161ikov \u013eahk\u00fdch pra\u017een\u00fdch p\u00edv pod\u013ea vzorov z \u00cdrska si na tohtoro\u010dn\u00fa zimu v Zichovci pripravili svoj prv\u00fd Irish Dry Stout. Vysok\u00e1 pite\u013enos\u0165, kr\u00e9mov\u00e9 telo a dominantn\u00e1 chu\u0165 pra\u017een\u00fdch k\u00e1vov\u00fdch sladov bud\u00fa skvel\u00fdmi partnermi na jesenn\u00e9 ve\u010dery. Stout je varen\u00fd \u0161pecificky spracovan\u00e9ho ja\u010dme\u0148a, ktor\u00fd sa hravo postaral o \u017eiaduci elegatne k\u00e1vov\u00fd profil.",
+      "long_description": "<p><strong>Zlo\u017eenie:<\/strong><br>voda, ja\u010dmenn\u00fd slad, ja\u010dmenn\u00e9 vlo\u010dky, chme\u013eov\u00e9 produkty<\/p>\r\n<p><strong>O pivovare:<\/strong><br>Zichoveck\u00fd pivovar za\u010d\u00ednal v obci Zichovec medzi Louny a Slan\u00fdm, ktor\u00e1 m\u00e1 pod\u013ea Googlu iba 93 obyvate\u013eov. Vzh\u013eadom ku kvalite svojich p\u00edv ale dok\u00e1zal pritiahnu\u0165 z\u00e1kazn\u00edkov z cel\u00e9ho okolia. Teraz pivovar Zichovec var\u00ed pivo v novom modernom are\u00e1li na okraji Loun. Pivovar je vybaven\u00fd najmodernej\u0161ou technol\u00f3giou a jeho kapacitu vyu\u017e\u00edva aj cel\u00fd rad \u010desk\u00fdch ko\u010dovn\u00fdch pivovarov. Ich najpopul\u00e1rnej\u0161\u00edm pivom je Magor a zo \u0161peci\u00e1lov odpor\u00fa\u010dame ochutna\u0165 (a vypi\u0165) skvele odladen\u00fa a nachmelen\u00fa Double IPU.<\/p>",
+      "url": "http:\/\/sk.beer-shop.cz\/p\/zlaty-dalmatyn-101",
+      "seo_title": null,
+      "seo_description": null,
+      "seo_url": null,
+      "unit": "ks"
+    }
+  ],
+  "manufacturer": "Beershop",
+  "stock": 4,
+  "stock_position": null,
+  "availability": "Skladem 101 dalmatinu",
+  "availability_type": "InStock",
+  "weight": 500,
+  "shipment_group": null,
+  "images": [
+    {
+      "url": "https:\/\/img.beershop.cz\/images\/KASTEEL_barista_fles33.jpg",
+      "main_yn": true,
+      "list_yn": true,
+      "position": 1,
+      "titles": []
+    }
+  ],
+  "categories": [
+    {
+      "category_id": 111,
+      "code": "K00002",
+      "main_yn": true,
+      "position": 4,
+      "name": "\u010cesko"
+    },
+    {
+      "category_id": 113,
+      "code": "K00004",
+      "main_yn": false,
+      "position": 2,
+      "name": "Plechovky p\u016fllitry"
+    }
+  ],
+  "groups": [],
+  "prices": [
+    {
+      "currency": "CZK",
+      "language": "cs",
+      "pricelists": [
+        {
+          "name": "V\u00fdchoz\u00ed",
+          "price_original": 101,
+          "product_discount": null,
+          "product_discount_real": 0,
+          "price_sale": null,
+          "price_with_vat": 101,
+          "price_without_vat": 83.47
+        }
+      ],
+      "price_purchase": null,
+      "price_common": 0,
+      "vat": 21,
+      "recycling_fee": null
+    },
+    {
+      "currency": "EUR",
+      "language": "en",
+      "pricelists": [
+        {
+          "name": "V\u00fdchoz\u00ed",
+          "price_original": 101,
+          "product_discount": null,
+          "product_discount_real": 0,
+          "price_sale": null,
+          "price_with_vat": 101,
+          "price_without_vat": 83.47
+        }
+      ],
+      "price_purchase": null,
+      "price_common": 0,
+      "vat": 0,
+      "recycling_fee": null
+    },
+    {
+      "currency": "EUR",
+      "language": "sk",
+      "pricelists": [
+        {
+          "name": "V\u00fdchoz\u00ed",
+          "price_original": 101,
+          "product_discount": null,
+          "product_discount_real": 0,
+          "price_sale": null,
+          "price_with_vat": 83.47,
+          "price_without_vat": 83.47
+        }
+      ],
+      "price_purchase": null,
+      "price_common": 0,
+      "vat": 0,
+      "recycling_fee": null
+    }
+  ],
+  "variants": [],
+  "metas": [
+    {
+      "key": "col",
+      "type": "input",
+      "value": ""
+    },
+    {
+      "key": "cont",
+      "type": "input",
+      "value": ""
+    },
+    {
+      "key": "categorytext_zbozi_cz",
+      "type": "select",
+      "value": ""
+    },
+    {
+      "key": "product_zbozi_cz",
+      "type": "input",
+      "value": ""
+    },
+    {
+      "key": "productname_zbozi_cz",
+      "type": "input",
+      "value": ""
+    },
+    {
+      "key": "redirect_301",
+      "type": "textarea",
+      "values": {
+        "cs": {
+          "language": "cs",
+          "value": ""
+        },
+        "en": {
+          "language": "en",
+          "value": ""
+        },
+        "sk": {
+          "language": "sk",
+          "value": "\/sk\/"
+        }
+      }
+    },
+    {
+      "key": "custom_zaloha",
+      "type": "number",
+      "value": "0"
+    }
+  ]
+}
